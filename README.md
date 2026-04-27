@@ -5,7 +5,7 @@
 
 Learn how to create and use functions in Python, including advanced function features.
 
-Concepts Covered
+# Concepts Covered
 
 User-defined functions
 
